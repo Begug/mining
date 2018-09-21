@@ -1,0 +1,1 @@
+http://autoclaim.win/faucet.php?address=0x56c39a58372bfe3aa8d61973ceceb0f00fa0106e&currency=ETH&key=c9438f4e758277cf0aea150ec1f88e8a
